@@ -25,4 +25,3 @@ def printer(attendees)
     puts value
   end
 end
-© 2020 GitHub, Inc.
